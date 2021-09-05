@@ -1,1 +1,1 @@
-# dockerized-kairosdb-scylla
+# Dockerized KairosDB Configured for ScyllaDB
